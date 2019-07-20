@@ -24,3 +24,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## Conclusion
 Not the most well-written and/or basic tutorial.  Going to look for a different one and come back this maybe.
+
+<strong>Update:</strong> After running into myriad errors I -- quickly, thankfully -- ran across a [post](https://medium.com/p/20b4ad07e8f0/responses/show) warning me off this tutorial.  Abandoned.

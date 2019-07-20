@@ -8,8 +8,8 @@
 <script>
 import Panel from "./components/Panel.vue"
 import InputForm from "./components/InputForm"
-import Result form "./components/Result"
-import { calcTaxes } from "./calc.js"
+import Result from "./components/Result"
+//import { calcTaxes } from "./calc.js"
 export default {
     name: "app",
     components: {
@@ -21,3 +21,11 @@ export default {
 </script>
 
 <style lang="scss" src="./assets/styles/App/scss" />
+
+<template>
+    <Panel class="calculator-panel" headline="Income Tax Calculator">
+        <template>
+            <span>Content goes here.</span>
+        </template>
+    </Panel>
+</template>

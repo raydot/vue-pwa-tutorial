@@ -17,3 +17,14 @@
         </div>
     </div>
 </template>
+
+<!--The headline is passed in so the functionality is generic.-->
+<script>
+    export default {
+        name: "Panel",
+        props: {
+            headline: String
+        }
+    }
+</script> 
+
