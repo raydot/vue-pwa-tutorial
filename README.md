@@ -2,6 +2,8 @@
 
 > Simple tax calculator vue tutorial
 
+[code](https://morioh.com/p/5c248fc9ed31)
+
 ## Build Setup
 
 ``` bash
@@ -19,3 +21,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Conclusion
+Not the most well-written and/or basic tutorial.  Going to look for a different one and come back this maybe.
